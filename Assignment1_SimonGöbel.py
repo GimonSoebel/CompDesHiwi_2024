@@ -26,4 +26,4 @@ if height == width > length:
 if length == width > height:
     print("Both the length and width of your room are equal and surpass its height. ")
 if height == length == width:
-    print("The length, length, and height of your room are equal. ")
+    print("The width, length, and height of your room are equal. ")
